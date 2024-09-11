@@ -18,6 +18,12 @@ The app fetches quiz data from an API, present questions to the user .
 
 If you want to make changes or add something new , you are welcome 😊
 
+![Screenshot (363)](https://github.com/user-attachments/assets/a22c5e06-7a60-44d3-ad92-f82998e793f0)
+
+
+
+
+
 
 Note :  
 * 1). The app fetches quiz data from an API, present questions to the user .
