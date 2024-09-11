@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography and History Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <div class="quiz-container"> 
+        
+        <div id="quiz">
+            <div id="question-container">
+                <div id="question">Loading...</div>
+                <div id="choices" class="choices"></div>
+            </div>
+            <div class="navigation">
+                
+                <button id="next-btn" class="btn" disabled>Next</button>
+            </div>
+            <div id="progress">Question <span id="current-question">1</span> of <span id="total-questions">5</span></div>
+        </div>
+        <div id="result-container" class="hidden">
+            <h2>Your Score: <span id="score"></span>%</h2>
+            
+            <button id="restart-btn" class="btn">Restart Quiz</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
