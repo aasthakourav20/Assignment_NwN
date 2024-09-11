@@ -33,4 +33,5 @@ Note :
 * 2). User can select only one option.
 * 3). If the  user selects correct option , the option block will turn green & user's point will increase .
 * 4). If the  user selects wrong option , the option block will turn red & user's point will remain same .
+* 5). Next question will nit be shown up until the user selects an option .
         
